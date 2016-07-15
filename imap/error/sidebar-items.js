@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","A set of errors that can occur in the IMAP client"],["ParseError",""]],"type":[["Result",""]]});

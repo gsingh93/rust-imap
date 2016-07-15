@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Client","Stream to interface with the IMAP server. This interface is only for the command stream."]]});

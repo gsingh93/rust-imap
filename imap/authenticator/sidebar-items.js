@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Authenticator","This will allow plugable authentication mechanisms."]]});
